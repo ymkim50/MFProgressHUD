@@ -1,0 +1,16 @@
+PODS:
+  - MFProgressHUD (0.1.0)
+
+DEPENDENCIES:
+  - MFProgressHUD (from `../`)
+
+EXTERNAL SOURCES:
+  MFProgressHUD:
+    :path: ../
+
+SPEC CHECKSUMS:
+  MFProgressHUD: c2bbae2c2ecc3a3339ec31378ca819362d21a018
+
+PODFILE CHECKSUM: 2b3e22f7d94ec5abefe2de73505cd1166891a944
+
+COCOAPODS: 1.3.1

@@ -1,0 +1,22 @@
+{
+  "name": "MFProgressHUD",
+  "version": "0.1.0",
+  "summary": "A short description of MFProgressHUD.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/ymkim50/MFProgressHUD",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "ymkim50": "ymkim50@me.com"
+  },
+  "source": {
+    "git": "https://github.com/ymkim50/MFProgressHUD.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "MFProgressHUD/Classes/**/*"
+}
