@@ -2,7 +2,7 @@
 import PackageDescription
 
 let package = Package(
-    name: "MFSwift",
+    name: "MFProgressHUD",
     platforms: [.iOS(.v10)],
     products: [.library(name: "MFProgressHUD", targets: ["MFProgressHUD"])],
     targets: [.target(name: "MFProgressHUD", path: "MFProgressHUD")],
